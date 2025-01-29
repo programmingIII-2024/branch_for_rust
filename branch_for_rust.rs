@@ -18,7 +18,7 @@ fn main()
 	}
 	println!("");
 
-	// 配列の和だけ繰り返し
+	// 配列の数だけ繰り返し
 	let a=["one", "two","three"];
 	for j in a
 	{
